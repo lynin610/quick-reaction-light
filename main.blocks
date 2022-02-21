@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="_hLcj^FsJ/Z)+zIE)qc6" x="22" y="16"/><block type="device_forever" id="^4[N7/$=`DSu/[MPdREc" x="225" y="20"/><block type="input_logo_event" id="#1X{51K#%m-fdVhfBJG{" x="218" y="137"><field name="action">TouchButtonEvent.Touched</field><statement name="HANDLER"><block type="device_show_leds" id="z;48{D#Zm4Qw]5|,4%QK"><field name="LEDS">`
+        . # . # . 
+        # # # # # 
+        # # # # # 
+        . # # # . 
+        . . # . .
+        `</field><next><block type="device_play_note" id="dmo8NYR~W+,r3m8XDs06"><value name="note"><shadow type="device_note" id="3$SUp1Qq;rx!PvQ*hae%"><field name="name">262</field></shadow></value><value name="duration"><shadow type="device_beat" id=":`1_)}fONsbXL2^.F=qw"><field name="fraction">BeatFraction.Whole</field></shadow></value></block></next></block></statement></block><block type="input_logo_event" id="NXR4_O3@5[_S@W.L1ipt" x="535" y="199"><field name="action">TouchButtonEvent.Released</field><statement name="HANDLER"><block type="device_clear_display" id="r,Dp17X/x:2_I!dYu_=+"/></statement></block></xml>
